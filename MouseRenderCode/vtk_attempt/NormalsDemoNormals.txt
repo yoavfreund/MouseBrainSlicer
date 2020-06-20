@@ -1,0 +1,22 @@
+yoav-freunds-PowerBook-G4-retina-2:vtk_attempt yoavfreund$ pythonw NormalsDemo.py 42400-IDGH.stl
+vtkPolyDataNormals (0x7f867a6b9630)
+  Debug: Off
+  Modified Time: 3048
+  Reference Count: 2
+  Registered Events: (none)
+  Executive: 0x7f867a6ba730
+  ErrorCode: Undefined error: 0
+  Information: 0x7f867a6b97b0
+  AbortExecute: Off
+  Progress: 0
+  Progress Text: (None)
+  Feature Angle: 30
+  Splitting: On
+  Consistency: On
+  Flip Normals: Off
+  Auto Orient Normals: Off
+  Num Flips: 0
+  Compute Point Normals: Off
+  Compute Cell Normals: Off
+  Non-manifold Traversal: On
+  Precision of the output points: 2

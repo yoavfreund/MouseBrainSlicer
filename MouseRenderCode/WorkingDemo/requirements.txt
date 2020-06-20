@@ -1,0 +1,3 @@
+python.app                1.2                      py36_4  
+vtk                       7.1.0                    py36_3    clinicalgraphics
+numpy                     1.14.0           py36h8a80b8c_1  

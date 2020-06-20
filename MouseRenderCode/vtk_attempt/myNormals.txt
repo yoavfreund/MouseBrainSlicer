@@ -1,0 +1,22 @@
+yoav-freunds-PowerBook-G4-retina-2:vtk_attempt yoavfreund$ pythonW myGrid.py
+vtkPolyDataNormals (0x7fb46ccdf1b0)
+  Debug: Off
+  Modified Time: 9013
+  Reference Count: 2
+  Registered Events: (none)
+  Executive: 0x7fb46cce3e80
+  ErrorCode: Undefined error: 0
+  Information: 0x7fb46ccdf2f0
+  AbortExecute: Off
+  Progress: 0
+  Progress Text: (None)
+  Feature Angle: 30
+  Splitting: On
+  Consistency: On
+  Flip Normals: Off
+  Auto Orient Normals: Off
+  Num Flips: 0
+  Compute Point Normals: On
+  Compute Cell Normals: Off
+  Non-manifold Traversal: On
+  Precision of the output points: 2
